@@ -1,3 +1,8 @@
+# InterMod
+InterMod is a modification of Inter. Customized using [Glyphr Studio](https://www.glyphrstudio.com/app/) and [Font Forge](https://fontforge.org/en-US/).
+<br>
+Original readme for Inter below.
+
 # Inter
 
 Inter is a typeface carefully crafted & designed for computer screens.
